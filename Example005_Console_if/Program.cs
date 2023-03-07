@@ -3,7 +3,7 @@ string username = Console.ReadLine();
 
 if(username == "Виктория")
 {
-console.WriteLine("Ура, это Виктория");
+Console.WriteLine("Ура, это Виктория");
 }
 else 
 {
